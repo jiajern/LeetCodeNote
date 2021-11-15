@@ -8,10 +8,10 @@ description: Group question by category
 
 ### Tree
 
-#### DFS
+#### - DFS
 
 {% content-ref url="1522.-diameter-of-n-ary-tree/" %}
 [1522.-diameter-of-n-ary-tree](1522.-diameter-of-n-ary-tree/)
 {% endcontent-ref %}
 
-#### BFS
+#### - BFS
