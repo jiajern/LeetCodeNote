@@ -7,6 +7,7 @@
   * [Solution 1](1469.-find-all-the-lonely-nodes/solution-1.md)
 * [1522. Diameter of N-Ary Tree](1522.-diameter-of-n-ary-tree/README.md)
   * [Solution 1](1522.-diameter-of-n-ary-tree/solution-1.md)
+  * [Solution 2](1522.-diameter-of-n-ary-tree/solution-2.md)
 * [1602. Find Nearest Right Node in Binary Tree](1602.-find-nearest-right-node-in-binary-tree/README.md)
   * [Solution 1](1602.-find-nearest-right-node-in-binary-tree/solution-1.md)
 * [Template](template.md)
