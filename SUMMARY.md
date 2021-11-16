@@ -5,6 +5,8 @@
   * [Solution 1](337.-house-robber-iii/solution-1.md)
 * [862. Shortest Subarray with Sum at Least K](<README (1).md>)
   * [Solution 1](862.-shortest-subarray-with-sum-at-least-k/solution-1.md)
+* [1325. Delete Leaves With a Given Value](1325.-delete-leaves-with-a-given-value/README.md)
+  * [Solution 1](1325.-delete-leaves-with-a-given-value/solution-1.md)
 * [1469. Find All The Lonely Nodes](1469.-find-all-the-lonely-nodes/README.md)
   * [Solution 1](1469.-find-all-the-lonely-nodes/solution-1.md)
 * [1522. Diameter of N-Ary Tree](1522.-diameter-of-n-ary-tree/README.md)
