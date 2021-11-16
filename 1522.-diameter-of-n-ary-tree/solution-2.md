@@ -6,7 +6,7 @@ The depth of the node is defined as the height from current to root.
 
 If we know depth of&#x20;
 
-```
+```java
 class Solution {
     protected int diameter = 0;
 

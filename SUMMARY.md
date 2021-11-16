@@ -14,3 +14,6 @@
   * [Solution 2](1522.-diameter-of-n-ary-tree/solution-2.md)
 * [1602. Find Nearest Right Node in Binary Tree](1602.-find-nearest-right-node-in-binary-tree/README.md)
   * [Solution 1](1602.-find-nearest-right-node-in-binary-tree/solution-1.md)
+* [366. Find Leaves of Binary Tree](366.-find-leaves-of-binary-tree/README.md)
+  * [Solution 1](366.-find-leaves-of-binary-tree/solution-1.md)
+  * [Solution 2](366.-find-leaves-of-binary-tree/solution-2.md)
