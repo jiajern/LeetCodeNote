@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Directory](README.md)
+* [124. Binary Tree Maximum Path Sum](124.-binary-tree-maximum-path-sum/README.md)
+  * [Solution 1](124.-binary-tree-maximum-path-sum/solution-1.md)
 * [337. House Robber III](337.-house-robber-iii/README.md)
   * [Solution 1](337.-house-robber-iii/solution-1.md)
 * [366. Find Leaves of Binary Tree](366.-find-leaves-of-binary-tree/README.md)
