@@ -17,3 +17,4 @@
 * [366. Find Leaves of Binary Tree](366.-find-leaves-of-binary-tree/README.md)
   * [Solution 1](366.-find-leaves-of-binary-tree/solution-1.md)
   * [Solution 2](366.-find-leaves-of-binary-tree/solution-2.md)
+  * [Solution 3](366.-find-leaves-of-binary-tree/solution-3.md)
