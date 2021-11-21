@@ -23,3 +23,7 @@
   * [Solution 2](1522.-diameter-of-n-ary-tree/solution-2.md)
 * [1602. Find Nearest Right Node in Binary Tree](1602.-find-nearest-right-node-in-binary-tree/README.md)
   * [Solution 1](1602.-find-nearest-right-node-in-binary-tree/solution-1.md)
+* [261. Graph Valid Tree](261.-graph-valid-tree/README.md)
+  * [Solution 1](261.-graph-valid-tree/solution-1.md)
+* [Template](template/README.md)
+  * [Depth First Search DFS Template](template/depth-first-search-dfs-template.md)
