@@ -7,6 +7,8 @@
   * [Solution 1](261.-graph-valid-tree/solution-1.md)
   * [Solution 2](261.-graph-valid-tree/solution-2.md)
   * [Solution 3](261.-graph-valid-tree/solution-3.md)
+* [323. Number of Connected Components in an Undirected Graph](323.-number-of-connected-components-in-an-undirected-graph/README.md)
+  * [Solution 1](323.-number-of-connected-components-in-an-undirected-graph/solution-1.md)
 * [337. House Robber III](337.-house-robber-iii/README.md)
   * [Solution 1](337.-house-robber-iii/solution-1.md)
 * [366. Find Leaves of Binary Tree](366.-find-leaves-of-binary-tree/README.md)
@@ -29,3 +31,4 @@
   * [Solution 1](1602.-find-nearest-right-node-in-binary-tree/solution-1.md)
 * [Template](template/README.md)
   * [Depth First Search DFS Template](template/depth-first-search-dfs-template.md)
+  * [Union Find](template/union-find.md)
