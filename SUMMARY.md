@@ -5,6 +5,8 @@
   * [Solution 1](124.-binary-tree-maximum-path-sum/solution-1.md)
 * [261. Graph Valid Tree](261.-graph-valid-tree/README.md)
   * [Solution 1](261.-graph-valid-tree/solution-1.md)
+  * [Solution 2](261.-graph-valid-tree/solution-2.md)
+  * [Solution 3](261.-graph-valid-tree/solution-3.md)
 * [337. House Robber III](337.-house-robber-iii/README.md)
   * [Solution 1](337.-house-robber-iii/solution-1.md)
 * [366. Find Leaves of Binary Tree](366.-find-leaves-of-binary-tree/README.md)
