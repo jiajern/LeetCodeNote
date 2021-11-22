@@ -25,3 +25,4 @@ description: Group question by category
 * [ ] [https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)
 * [ ] [https://www.cs.princeton.edu/\~rs/AlgsDS07/01UnionFind.pdf](https://www.cs.princeton.edu/\~rs/AlgsDS07/01UnionFind.pdf)
 * [ ] [https://leetcode.com/problems/cheapest-flights-within-k-stops/](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+* [ ] [https://leetcode.com/problems/number-of-islands-ii/discuss/75470/Easiest-Java-Solution-with-Explanations](https://leetcode.com/problems/number-of-islands-ii/discuss/75470/Easiest-Java-Solution-with-Explanations)
