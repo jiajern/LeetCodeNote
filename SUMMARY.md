@@ -20,6 +20,8 @@
 * [968. Binary Tree Cameras](968.-binary-tree-cameras/README.md)
   * [Solution 1](968.-binary-tree-cameras/solution-1.md)
   * [Solution 2](968.-binary-tree-cameras/solution-2.md)
+* [990. Satisfiability of Equality Equations](990.-satisfiability-of-equality-equations/README.md)
+  * [Solution 1](990.-satisfiability-of-equality-equations/solution-1.md)
 * [1325. Delete Leaves With a Given Value](1325.-delete-leaves-with-a-given-value/README.md)
   * [Solution 1](1325.-delete-leaves-with-a-given-value/solution-1.md)
 * [1469. Find All The Lonely Nodes](1469.-find-all-the-lonely-nodes/README.md)
