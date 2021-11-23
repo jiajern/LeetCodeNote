@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Directory](README.md)
+* [23. Merge k Sorted Lists](23.-merge-k-sorted-lists/README.md)
+  * [Solution 1 Priority Queue](23.-merge-k-sorted-lists/solution-1-priority-queue.md)
+  * [Solution 2 Break and Conquer](23.-merge-k-sorted-lists/solution-2-break-and-conquer.md)
+  * [Solution 3 Divide and Conquer](23.-merge-k-sorted-lists/solution-3-divide-and-conquer.md)
 * [124. Binary Tree Maximum Path Sum](124.-binary-tree-maximum-path-sum/README.md)
   * [Solution 1](124.-binary-tree-maximum-path-sum/solution-1.md)
 * [261. Graph Valid Tree](261.-graph-valid-tree/README.md)
