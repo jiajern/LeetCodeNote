@@ -1,10 +1,16 @@
 # Table of contents
 
 * [Directory](README.md)
-* [23. Merge k Sorted Lists](23.-merge-k-sorted-lists/README.md)
-  * [Solution 1 Priority Queue](23.-merge-k-sorted-lists/solution-1-priority-queue.md)
-  * [Solution 2 Break and Conquer](23.-merge-k-sorted-lists/solution-2-break-and-conquer.md)
-  * [Solution 3 Divide and Conquer](23.-merge-k-sorted-lists/solution-3-divide-and-conquer.md)
+
+## 1-100
+
+* [23. Merge k Sorted Lists](1-100/23.-merge-k-sorted-lists/README.md)
+  * [Solution 1 Priority Queue](1-100/23.-merge-k-sorted-lists/solution-1-priority-queue.md)
+  * [Solution 2 Break and Conquer](1-100/23.-merge-k-sorted-lists/solution-2-break-and-conquer.md)
+  * [Solution 3 Divide and Conquer](1-100/23.-merge-k-sorted-lists/solution-3-divide-and-conquer.md)
+
+***
+
 * [124. Binary Tree Maximum Path Sum](124.-binary-tree-maximum-path-sum/README.md)
   * [Solution 1](124.-binary-tree-maximum-path-sum/solution-1.md)
 * [261. Graph Valid Tree](261.-graph-valid-tree/README.md)
@@ -19,6 +25,8 @@
   * [Solution 1](366.-find-leaves-of-binary-tree/solution-1.md)
   * [Solution 2](366.-find-leaves-of-binary-tree/solution-2.md)
   * [Solution 3](366.-find-leaves-of-binary-tree/solution-3.md)
+* [787. Cheapest Flights Within K Stops](787.-cheapest-flights-within-k-stops/README.md)
+  * [Solution 1 Dijkstra's Algorithm](787.-cheapest-flights-within-k-stops/solution-1-dijkstras-algorithm.md)
 * [862. Shortest Subarray with Sum at Least K](<README (1).md>)
   * [Solution 1](862.-shortest-subarray-with-sum-at-least-k/solution-1.md)
 * [968. Binary Tree Cameras](968.-binary-tree-cameras/README.md)
@@ -35,6 +43,7 @@
   * [Solution 2](1522.-diameter-of-n-ary-tree/solution-2.md)
 * [1602. Find Nearest Right Node in Binary Tree](1602.-find-nearest-right-node-in-binary-tree/README.md)
   * [Solution 1](1602.-find-nearest-right-node-in-binary-tree/solution-1.md)
+* [Algorithm](algorithm.md)
 * [Template](template/README.md)
   * [Depth First Search DFS Template](template/depth-first-search-dfs-template.md)
   * [Union Find](template/union-find.md)
