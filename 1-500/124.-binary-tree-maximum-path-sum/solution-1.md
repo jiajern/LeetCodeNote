@@ -4,8 +4,8 @@
 
 This is similar to&#x20;
 
-{% content-ref url="../1522.-diameter-of-n-ary-tree/" %}
-[1522.-diameter-of-n-ary-tree](../1522.-diameter-of-n-ary-tree/)
+{% content-ref url="../../1501-2000/1522.-diameter-of-n-ary-tree/" %}
+[1522.-diameter-of-n-ary-tree](../../1501-2000/1522.-diameter-of-n-ary-tree/)
 {% endcontent-ref %}
 
 ```java
