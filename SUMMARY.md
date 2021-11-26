@@ -12,6 +12,8 @@
     * [Solution 1](1-500/261.-graph-valid-tree/solution-1.md)
     * [Solution 2](1-500/261.-graph-valid-tree/solution-2.md)
     * [Solution 3](1-500/261.-graph-valid-tree/solution-3.md)
+  * [305. Number of Islands II](1-500/305.-number-of-islands-ii/README.md)
+    * [Solution 1 Union Find](1-500/305.-number-of-islands-ii/solution-1-union-find.md)
   * [323. Number of Connected Components in an Undirected Graph](1-500/323.-number-of-connected-components-in-an-undirected-graph/README.md)
     * [Solution 1](1-500/323.-number-of-connected-components-in-an-undirected-graph/solution-1.md)
   * [337. House Robber III](1-500/337.-house-robber-iii/README.md)
