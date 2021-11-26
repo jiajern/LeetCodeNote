@@ -43,6 +43,8 @@
   * [1522. Diameter of N-Ary Tree](1501-2000/1522.-diameter-of-n-ary-tree/README.md)
     * [Solution 1](1501-2000/1522.-diameter-of-n-ary-tree/solution-1.md)
     * [Solution 2](1501-2000/1522.-diameter-of-n-ary-tree/solution-2.md)
+  * [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](1501-2000/1579.-remove-max-number-of-edges-to-keep-graph-fully-traversable/README.md)
+    * [Solution 1 Union Find](1501-2000/1579.-remove-max-number-of-edges-to-keep-graph-fully-traversable/solution-1-union-find.md)
   * [1602. Find Nearest Right Node in Binary Tree](1501-2000/1602.-find-nearest-right-node-in-binary-tree/README.md)
     * [Solution 1](1501-2000/1602.-find-nearest-right-node-in-binary-tree/solution-1.md)
 * [Algorithm](algorithm.md)
