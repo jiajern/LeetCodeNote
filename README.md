@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Binary Search
+
+{% content-ref url="501-1000/704.-binary-search/" %}
+[704.-binary-search](501-1000/704.-binary-search/)
+{% endcontent-ref %}
+
 ### Recursion
 
 ### Tree
