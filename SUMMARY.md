@@ -6,6 +6,8 @@
     * [Solution 1 Priority Queue](1-500/23.-merge-k-sorted-lists/solution-1-priority-queue.md)
     * [Solution 2 Break and Conquer](1-500/23.-merge-k-sorted-lists/solution-2-break-and-conquer.md)
     * [Solution 3 Divide and Conquer](1-500/23.-merge-k-sorted-lists/solution-3-divide-and-conquer.md)
+  * [35. Search Insert Position](1-500/35.-search-insert-position/README.md)
+    * [Binary Search](1-500/35.-search-insert-position/binary-search.md)
   * [124. Binary Tree Maximum Path Sum](1-500/124.-binary-tree-maximum-path-sum/README.md)
     * [Solution 1](1-500/124.-binary-tree-maximum-path-sum/solution-1.md)
   * [253. Meeting Rooms II](1-500/253.-meeting-rooms-ii/README.md)
