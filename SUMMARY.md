@@ -13,6 +13,8 @@
   * [189. Rotate Array](1-500/189.-rotate-array/README.md)
     * [Cyclic Switching](1-500/189.-rotate-array/cyclic-switching.md)
     * [Two Pointers](1-500/189.-rotate-array/two-pointers.md)
+  * [198. House Robber](1-500/198.-house-robber/README.md)
+    * [Dynamic Programming](1-500/198.-house-robber/dynamic-programming.md)
   * [253. Meeting Rooms II](1-500/253.-meeting-rooms-ii/README.md)
     * [Solution 1 PriorityQueue](1-500/253.-meeting-rooms-ii/solution-1-priorityqueue.md)
     * [Solution 2 Two Pointers](1-500/253.-meeting-rooms-ii/solution-2-two-pointers.md)

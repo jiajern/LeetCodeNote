@@ -28,6 +28,12 @@ description: Group question by category
 [977.-squares-of-a-sorted-array](501-1000/977.-squares-of-a-sorted-array/)
 {% endcontent-ref %}
 
+### Dynamic Programming
+
+{% content-ref url="1-500/198.-house-robber/" %}
+[198.-house-robber](1-500/198.-house-robber/)
+{% endcontent-ref %}
+
 ### Recursion
 
 ### Tree
