@@ -43,6 +43,8 @@
   * [968. Binary Tree Cameras](501-1000/968.-binary-tree-cameras/README.md)
     * [Solution 1](501-1000/968.-binary-tree-cameras/solution-1.md)
     * [Solution 2](501-1000/968.-binary-tree-cameras/solution-2.md)
+  * [977. Squares of a Sorted Array](501-1000/977.-squares-of-a-sorted-array/README.md)
+    * [Two pointers](501-1000/977.-squares-of-a-sorted-array/two-pointers.md)
   * [990. Satisfiability of Equality Equations](501-1000/990.-satisfiability-of-equality-equations/README.md)
     * [Solution 1](501-1000/990.-satisfiability-of-equality-equations/solution-1.md)
 * [1001 - 1500](1001-1500/README.md)

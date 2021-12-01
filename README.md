@@ -18,6 +18,12 @@ description: Group question by category
 [704.-binary-search](501-1000/704.-binary-search/)
 {% endcontent-ref %}
 
+### Two Pointers
+
+{% content-ref url="501-1000/977.-squares-of-a-sorted-array/" %}
+[977.-squares-of-a-sorted-array](501-1000/977.-squares-of-a-sorted-array/)
+{% endcontent-ref %}
+
 ### Recursion
 
 ### Tree
