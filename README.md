@@ -20,6 +20,10 @@ description: Group question by category
 
 ### Two Pointers
 
+{% content-ref url="1-500/189.-rotate-array/" %}
+[189.-rotate-array](1-500/189.-rotate-array/)
+{% endcontent-ref %}
+
 {% content-ref url="501-1000/977.-squares-of-a-sorted-array/" %}
 [977.-squares-of-a-sorted-array](501-1000/977.-squares-of-a-sorted-array/)
 {% endcontent-ref %}
