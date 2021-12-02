@@ -34,17 +34,11 @@ description: Group question by category
 [198.-house-robber](1-500/198.-house-robber/)
 {% endcontent-ref %}
 
-### Recursion
+### Linked List
 
-### Tree
-
-#### - DFS
-
-{% content-ref url="1501-2000/1522.-diameter-of-n-ary-tree/" %}
-[1522.-diameter-of-n-ary-tree](1501-2000/1522.-diameter-of-n-ary-tree/)
+{% content-ref url="1-500/328.-odd-even-linked-list/" %}
+[328.-odd-even-linked-list](1-500/328.-odd-even-linked-list/)
 {% endcontent-ref %}
-
-#### - BFS
 
 
 

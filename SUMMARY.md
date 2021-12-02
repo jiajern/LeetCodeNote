@@ -28,6 +28,8 @@
     * [Solution 1 Union Find](1-500/305.-number-of-islands-ii/solution-1-union-find.md)
   * [323. Number of Connected Components in an Undirected Graph](1-500/323.-number-of-connected-components-in-an-undirected-graph/README.md)
     * [Solution 1](1-500/323.-number-of-connected-components-in-an-undirected-graph/solution-1.md)
+  * [328. Odd Even Linked List](1-500/328.-odd-even-linked-list/README.md)
+    * [Loop](1-500/328.-odd-even-linked-list/loop.md)
   * [337. House Robber III](1-500/337.-house-robber-iii/README.md)
     * [Solution 1](1-500/337.-house-robber-iii/solution-1.md)
   * [366. Find Leaves of Binary Tree](1-500/366.-find-leaves-of-binary-tree/README.md)
