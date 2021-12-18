@@ -75,3 +75,4 @@
 * [Template](template/README.md)
   * [Depth First Search DFS Template](template/depth-first-search-dfs-template.md)
   * [Union Find](template/union-find.md)
+  * [Binary Search](template/binary-search.md)
