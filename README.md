@@ -32,6 +32,10 @@ description: Group question by category
 [977.-squares-of-a-sorted-array](501-1000/977.-squares-of-a-sorted-array/)
 {% endcontent-ref %}
 
+{% content-ref url="1001-1500/1229.-meeting-scheduler/" %}
+[1229.-meeting-scheduler](1001-1500/1229.-meeting-scheduler/)
+{% endcontent-ref %}
+
 ### Dynamic Programming
 
 {% content-ref url="1-500/198.-house-robber/" %}
