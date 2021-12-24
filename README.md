@@ -18,6 +18,10 @@ description: Group question by category
 [704.-binary-search](501-1000/704.-binary-search/)
 {% endcontent-ref %}
 
+{% content-ref url="1001-1500/1182.-shortest-distance-to-target-color/" %}
+[1182.-shortest-distance-to-target-color](1001-1500/1182.-shortest-distance-to-target-color/)
+{% endcontent-ref %}
+
 ### Two Pointers
 
 {% content-ref url="1-500/189.-rotate-array/" %}
