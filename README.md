@@ -60,6 +60,10 @@ description: Group question by category
 [3.-longest-substring-without-repeating-characters](1-500/3.-longest-substring-without-repeating-characters/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/159.-longest-substring-with-at-most-two-distinct-characters/" %}
+[159.-longest-substring-with-at-most-two-distinct-characters](1-500/159.-longest-substring-with-at-most-two-distinct-characters/)
+{% endcontent-ref %}
+
 ### Linked List
 
 {% content-ref url="1-500/328.-odd-even-linked-list/" %}
