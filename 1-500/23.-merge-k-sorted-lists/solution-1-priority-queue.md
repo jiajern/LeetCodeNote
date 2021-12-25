@@ -2,7 +2,7 @@
 
 ### Approach
 
-Using **PriorityQueue **as **min heap**. We put all the elements into the heap. Then pop it out again
+Using **PriorityQueue** as **min heap**. We put all the elements into the heap. Then pop it out again
 
 ```java
 /**

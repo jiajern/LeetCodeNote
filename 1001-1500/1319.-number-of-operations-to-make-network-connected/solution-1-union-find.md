@@ -2,7 +2,7 @@
 
 ### Approach
 
-Using **Union Find **to find the number of unconnected components
+Using **Union Find** to find the number of unconnected components
 
 ```java
 class Solution {

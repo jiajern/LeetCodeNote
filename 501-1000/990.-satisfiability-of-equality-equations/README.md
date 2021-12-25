@@ -6,7 +6,7 @@
 
 You are given an array of strings `equations` that represent relationships between variables where each string `equations[i]` is of length `4` and takes one of two different forms: `"xi==yi"` or `"xi!=yi"`.Here, `xi` and `yi` are lowercase letters (not necessarily different) that represent one-letter variable names.
 
-Return `true`_ if it is possible to assign integers to variable names so as to satisfy all the given equations, or _`false`_ otherwise_.
+Return `true` _if it is possible to assign integers to variable names so as to satisfy all the given equations, or_ `false` _otherwise_.
 
 ### Example
 

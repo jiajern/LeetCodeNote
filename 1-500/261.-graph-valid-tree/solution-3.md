@@ -2,4 +2,4 @@
 
 ### Approach
 
-Using **Union Find **+ **Graph Theory**
+Using **Union Find** + **Graph Theory**

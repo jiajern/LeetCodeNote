@@ -6,7 +6,7 @@ link to the question
 
 ### **Description**
 
-Given the `root` of a binary tree and a node `u` in the tree, return _the **nearest** node on the **same level** that is to the **right** of_ `u`_, or return_ `null` _if _`u` _is the rightmost node in its level_.
+Given the `root` of a binary tree and a node `u` in the tree, return _the **nearest** node on the **same level** that is to the **right** of_ `u`_, or return_ `null` _if_ `u` _is the rightmost node in its level_.
 
 ### **Example**
 
