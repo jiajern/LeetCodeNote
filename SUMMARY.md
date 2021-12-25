@@ -10,6 +10,8 @@
     * [Solution 3 Divide and Conquer](1-500/23.-merge-k-sorted-lists/solution-3-divide-and-conquer.md)
   * [35. Search Insert Position](1-500/35.-search-insert-position/README.md)
     * [Binary Search](1-500/35.-search-insert-position/binary-search.md)
+  * [42. Trapping Rain Water](1-500/42.-trapping-rain-water/README.md)
+    * [Two Pointer](1-500/42.-trapping-rain-water/two-pointer.md)
   * [124. Binary Tree Maximum Path Sum](1-500/124.-binary-tree-maximum-path-sum/README.md)
     * [Solution 1](1-500/124.-binary-tree-maximum-path-sum/solution-1.md)
   * [189. Rotate Array](1-500/189.-rotate-array/README.md)
