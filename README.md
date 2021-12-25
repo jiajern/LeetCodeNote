@@ -32,6 +32,10 @@ description: Group question by category
 [189.-rotate-array](1-500/189.-rotate-array/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/287.-find-the-duplicate-number/" %}
+[287.-find-the-duplicate-number](1-500/287.-find-the-duplicate-number/)
+{% endcontent-ref %}
+
 {% content-ref url="501-1000/977.-squares-of-a-sorted-array/" %}
 [977.-squares-of-a-sorted-array](501-1000/977.-squares-of-a-sorted-array/)
 {% endcontent-ref %}
