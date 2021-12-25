@@ -14,6 +14,10 @@ description: Group question by category
 [278.-first-bad-version](1-500/278.-first-bad-version/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/287.-find-the-duplicate-number/" %}
+[287.-find-the-duplicate-number](1-500/287.-find-the-duplicate-number/)
+{% endcontent-ref %}
+
 {% content-ref url="501-1000/704.-binary-search/" %}
 [704.-binary-search](501-1000/704.-binary-search/)
 {% endcontent-ref %}
