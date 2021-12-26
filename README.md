@@ -64,6 +64,10 @@ description: Group question by category
 [159.-longest-substring-with-at-most-two-distinct-characters](1-500/159.-longest-substring-with-at-most-two-distinct-characters/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/340.-longest-substring-with-at-most-k-distinct-characters/" %}
+[340.-longest-substring-with-at-most-k-distinct-characters](1-500/340.-longest-substring-with-at-most-k-distinct-characters/)
+{% endcontent-ref %}
+
 {% content-ref url="1001-1500/1004.-max-consecutive-ones-iii/" %}
 [1004.-max-consecutive-ones-iii](1001-1500/1004.-max-consecutive-ones-iii/)
 {% endcontent-ref %}
