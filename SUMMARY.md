@@ -64,6 +64,8 @@
   * [990. Satisfiability of Equality Equations](501-1000/990.-satisfiability-of-equality-equations/README.md)
     * [Solution 1](501-1000/990.-satisfiability-of-equality-equations/solution-1.md)
 * [1001 - 1500](1001-1500/README.md)
+  * [1004. Max Consecutive Ones III](1001-1500/1004.-max-consecutive-ones-iii/README.md)
+    * [Sliding Window](1001-1500/1004.-max-consecutive-ones-iii/sliding-window.md)
   * [1182. Shortest Distance to Target Color](1001-1500/1182.-shortest-distance-to-target-color/README.md)
     * [Binary Search](1001-1500/1182.-shortest-distance-to-target-color/binary-search.md)
     * [Precompute](1001-1500/1182.-shortest-distance-to-target-color/precompute.md)
