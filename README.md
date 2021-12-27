@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### BFS / DFS
+
+{% content-ref url="1-500/286.-walls-and-gates/" %}
+[286.-walls-and-gates](1-500/286.-walls-and-gates/)
+{% endcontent-ref %}
+
 ### Monotonic Increasing/Decreasing Array
 
 {% content-ref url="1-500/239.-sliding-window-maximum/" %}

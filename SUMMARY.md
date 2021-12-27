@@ -33,6 +33,8 @@
     * [Solution 3](1-500/261.-graph-valid-tree/solution-3.md)
   * [278. First Bad Version](1-500/278.-first-bad-version/README.md)
     * [Binary Search](1-500/278.-first-bad-version/binary-search.md)
+  * [286. Walls and Gates](1-500/286.-walls-and-gates/README.md)
+    * [BFS](1-500/286.-walls-and-gates/bfs.md)
   * [287. Find the Duplicate Number](1-500/287.-find-the-duplicate-number/README.md)
     * [Floyd's Tortoise and Hare Algorithm](1-500/287.-find-the-duplicate-number/floyds-tortoise-and-hare-algorithm.md)
     * [Binary Search](1-500/287.-find-the-duplicate-number/binary-search.md)
