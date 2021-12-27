@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Monotonic Increasing/Decreasing Array
+
+{% content-ref url="1-500/239.-sliding-window-maximum/" %}
+[239.-sliding-window-maximum](1-500/239.-sliding-window-maximum/)
+{% endcontent-ref %}
+
 ### Binary Search
 
 {% content-ref url="1-500/35.-search-insert-position/" %}
