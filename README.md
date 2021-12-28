@@ -10,8 +10,8 @@ description: Group question by category
 [286.-walls-and-gates](1-500/286.-walls-and-gates/)
 {% endcontent-ref %}
 
-{% content-ref url="417.-pacific-atlantic-water-flow/" %}
-[417.-pacific-atlantic-water-flow](417.-pacific-atlantic-water-flow/)
+{% content-ref url="1-500/417.-pacific-atlantic-water-flow/" %}
+[417.-pacific-atlantic-water-flow](1-500/417.-pacific-atlantic-water-flow/)
 {% endcontent-ref %}
 
 ### Monotonic Increasing/Decreasing Array
