@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Union Find
+
+{% content-ref url="1001-1500/1319.-number-of-operations-to-make-network-connected/" %}
+[1319.-number-of-operations-to-make-network-connected](1001-1500/1319.-number-of-operations-to-make-network-connected/)
+{% endcontent-ref %}
+
 ### BFS / DFS
 
 {% content-ref url="1-500/286.-walls-and-gates/" %}
