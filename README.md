@@ -14,6 +14,10 @@ description: Group question by category
 [417.-pacific-atlantic-water-flow](1-500/417.-pacific-atlantic-water-flow/)
 {% endcontent-ref %}
 
+{% content-ref url="501-1000/863.-all-nodes-distance-k-in-binary-tree/" %}
+[863.-all-nodes-distance-k-in-binary-tree](501-1000/863.-all-nodes-distance-k-in-binary-tree/)
+{% endcontent-ref %}
+
 ### Monotonic Increasing/Decreasing Array
 
 {% content-ref url="1-500/239.-sliding-window-maximum/" %}
