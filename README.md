@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Backtracking
+
+{% content-ref url="1-500/394.-decode-string/" %}
+[394.-decode-string](1-500/394.-decode-string/)
+{% endcontent-ref %}
+
 ### Union Find
 
 {% content-ref url="1001-1500/1319.-number-of-operations-to-make-network-connected/" %}
