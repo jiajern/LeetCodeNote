@@ -56,6 +56,8 @@
   * [378. Kth Smallest Element in a Sorted Matrix](1-500/378.-kth-smallest-element-in-a-sorted-matrix/README.md)
     * [Solution 2 Binary Search](1-500/378.-kth-smallest-element-in-a-sorted-matrix/solution-2-binary-search.md)
     * [Solution 1 Priority Queue](1-500/378.-kth-smallest-element-in-a-sorted-matrix/solution-1-priority-queue.md)
+  * [394. Decode String](1-500/394.-decode-string/README.md)
+    * [Stack](1-500/394.-decode-string/stack.md)
   * [417. Pacific Atlantic Water Flow](1-500/417.-pacific-atlantic-water-flow/README.md)
     * [BFS](1-500/417.-pacific-atlantic-water-flow/bfs.md)
 * [501 - 1000](501-1000/README.md)
