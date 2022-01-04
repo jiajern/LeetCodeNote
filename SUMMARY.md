@@ -12,6 +12,8 @@
     * [Binary Search](1-500/35.-search-insert-position/binary-search.md)
   * [42. Trapping Rain Water](1-500/42.-trapping-rain-water/README.md)
     * [Two Pointer](1-500/42.-trapping-rain-water/two-pointer.md)
+  * [51. N-Queens](1-500/51.-n-queens/README.md)
+    * [BackTrack](1-500/51.-n-queens/backtrack.md)
   * [124. Binary Tree Maximum Path Sum](1-500/124.-binary-tree-maximum-path-sum/README.md)
     * [Solution 1](1-500/124.-binary-tree-maximum-path-sum/solution-1.md)
   * [159. Longest Substring with At Most Two Distinct Characters](1-500/159.-longest-substring-with-at-most-two-distinct-characters/README.md)

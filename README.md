@@ -6,6 +6,10 @@ description: Group question by category
 
 ### Backtracking
 
+{% content-ref url="1-500/51.-n-queens/" %}
+[51.-n-queens](1-500/51.-n-queens/)
+{% endcontent-ref %}
+
 {% content-ref url="1-500/394.-decode-string/" %}
 [394.-decode-string](1-500/394.-decode-string/)
 {% endcontent-ref %}
