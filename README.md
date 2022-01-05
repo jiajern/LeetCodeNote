@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Recursion
+
+{% content-ref url="1-500/241.-different-ways-to-add-parentheses/" %}
+[241.-different-ways-to-add-parentheses](1-500/241.-different-ways-to-add-parentheses/)
+{% endcontent-ref %}
+
 ### Divide and Conquer
 
 {% content-ref url="1-500/53.-maximum-subarray/" %}

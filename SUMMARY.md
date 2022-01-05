@@ -29,6 +29,8 @@
   * [239. Sliding Window Maximum](1-500/239.-sliding-window-maximum/README.md)
     * [Monotonic Deque](1-500/239.-sliding-window-maximum/monotonic-deque.md)
     * [Dynamic Programming](1-500/239.-sliding-window-maximum/dynamic-programming.md)
+  * [241. Different Ways to Add Parentheses](1-500/241.-different-ways-to-add-parentheses/README.md)
+    * [Recursion](1-500/241.-different-ways-to-add-parentheses/recursion.md)
   * [253. Meeting Rooms II](1-500/253.-meeting-rooms-ii/README.md)
     * [Solution 1 PriorityQueue](1-500/253.-meeting-rooms-ii/solution-1-priorityqueue.md)
     * [Solution 2 Two Pointers](1-500/253.-meeting-rooms-ii/solution-2-two-pointers.md)
