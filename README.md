@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Divide and Conquer
+
+{% content-ref url="1-500/53.-maximum-subarray/" %}
+[53.-maximum-subarray](1-500/53.-maximum-subarray/)
+{% endcontent-ref %}
+
 ### Backtracking
 
 {% content-ref url="1-500/51.-n-queens/" %}
