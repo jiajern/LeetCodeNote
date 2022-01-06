@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Tree
+
+{% content-ref url="501-1000/530.-minimum-absolute-difference-in-bst/" %}
+[530.-minimum-absolute-difference-in-bst](501-1000/530.-minimum-absolute-difference-in-bst/)
+{% endcontent-ref %}
+
 ### Recursion
 
 {% content-ref url="1-500/241.-different-ways-to-add-parentheses/" %}

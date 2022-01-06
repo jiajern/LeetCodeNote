@@ -69,6 +69,8 @@
   * [417. Pacific Atlantic Water Flow](1-500/417.-pacific-atlantic-water-flow/README.md)
     * [BFS](1-500/417.-pacific-atlantic-water-flow/bfs.md)
 * [501 - 1000](501-1000/README.md)
+  * [530. Minimum Absolute Difference in BST](501-1000/530.-minimum-absolute-difference-in-bst/README.md)
+    * [In Order](501-1000/530.-minimum-absolute-difference-in-bst/in-order.md)
   * [704. Binary Search](501-1000/704.-binary-search/README.md)
     * [Solution 1 Recursive Binary Search](501-1000/704.-binary-search/solution-1-recursive-binary-search.md)
     * [Iterative Binary Search](501-1000/704.-binary-search/iterative-binary-search.md)
