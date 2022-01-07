@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Array
+
+{% content-ref url="1-500/78.-subsets/" %}
+[78.-subsets](1-500/78.-subsets/)
+{% endcontent-ref %}
+
 ### Tree
 
 {% content-ref url="501-1000/530.-minimum-absolute-difference-in-bst/" %}

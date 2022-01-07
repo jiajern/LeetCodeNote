@@ -17,6 +17,8 @@
   * [53. Maximum Subarray](1-500/53.-maximum-subarray/README.md)
     * [Kadane's Algorithm](1-500/53.-maximum-subarray/kadanes-algorithm.md)
     * [Divide and Conquer](1-500/53.-maximum-subarray/divide-and-conquer.md)
+  * [78. Subsets](1-500/78.-subsets/README.md)
+    * [Iterative](1-500/78.-subsets/iterative.md)
   * [124. Binary Tree Maximum Path Sum](1-500/124.-binary-tree-maximum-path-sum/README.md)
     * [Solution 1](1-500/124.-binary-tree-maximum-path-sum/solution-1.md)
   * [159. Longest Substring with At Most Two Distinct Characters](1-500/159.-longest-substring-with-at-most-two-distinct-characters/README.md)
