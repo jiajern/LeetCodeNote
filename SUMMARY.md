@@ -102,6 +102,8 @@
     * [Solution 1 Union Find](1001-1500/1319.-number-of-operations-to-make-network-connected/solution-1-union-find.md)
   * [1325. Delete Leaves With a Given Value](1001-1500/1325.-delete-leaves-with-a-given-value/README.md)
     * [Solution 1](1001-1500/1325.-delete-leaves-with-a-given-value/solution-1.md)
+  * [1339. Maximum Product of Splitted Binary Tree](1001-1500/1339.-maximum-product-of-splitted-binary-tree/README.md)
+    * [Post Order Traversal](1001-1500/1339.-maximum-product-of-splitted-binary-tree/post-order-traversal.md)
   * [1469. Find All The Lonely Nodes](1001-1500/1469.-find-all-the-lonely-nodes/README.md)
     * [Solution 1](1001-1500/1469.-find-all-the-lonely-nodes/solution-1.md)
 * [1501 - 2000](1501-2000/README.md)
