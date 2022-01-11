@@ -122,3 +122,4 @@
   * [Union Find](template/union-find.md)
   * [Binary Search](template/binary-search.md)
   * [Sliding Window](template/sliding-window.md)
+* [Code Quality / Best Practice](code-quality-best-practice.md)
