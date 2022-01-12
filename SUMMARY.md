@@ -2,6 +2,8 @@
 
 * [Directory](README.md)
 * [1 - 500](1-500/README.md)
+  * [1. Two Sum](1-500/1.-two-sum/README.md)
+    * [Hash Table](1-500/1.-two-sum/hash-table.md)
   * [3. Longest Substring Without Repeating Characters](1-500/3.-longest-substring-without-repeating-characters/README.md)
     * [Sliding Window](1-500/3.-longest-substring-without-repeating-characters/sliding-window.md)
   * [23. Merge k Sorted Lists](1-500/23.-merge-k-sorted-lists/README.md)
