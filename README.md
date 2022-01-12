@@ -6,6 +6,10 @@ description: Group question by category
 
 ### Array
 
+{% content-ref url="1-500/1.-two-sum/" %}
+[1.-two-sum](1-500/1.-two-sum/)
+{% endcontent-ref %}
+
 {% content-ref url="1-500/78.-subsets/" %}
 [78.-subsets](1-500/78.-subsets/)
 {% endcontent-ref %}
