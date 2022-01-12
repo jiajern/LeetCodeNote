@@ -14,6 +14,10 @@ description: Group question by category
 [78.-subsets](1-500/78.-subsets/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/88.-merge-sorted-array/" %}
+[88.-merge-sorted-array](1-500/88.-merge-sorted-array/)
+{% endcontent-ref %}
+
 ### Tree
 
 {% content-ref url="501-1000/530.-minimum-absolute-difference-in-bst/" %}
