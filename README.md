@@ -18,6 +18,10 @@ description: Group question by category
 [88.-merge-sorted-array](1-500/88.-merge-sorted-array/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/121.-best-time-to-buy-and-sell-stock/" %}
+[121.-best-time-to-buy-and-sell-stock](1-500/121.-best-time-to-buy-and-sell-stock/)
+{% endcontent-ref %}
+
 ### Tree
 
 {% content-ref url="501-1000/530.-minimum-absolute-difference-in-bst/" %}
