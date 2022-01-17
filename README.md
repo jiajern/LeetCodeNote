@@ -86,6 +86,10 @@ description: Group question by category
 [35.-search-insert-position](1-500/35.-search-insert-position/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/74.-search-a-2d-matrix/" %}
+[74.-search-a-2d-matrix](1-500/74.-search-a-2d-matrix/)
+{% endcontent-ref %}
+
 {% content-ref url="1-500/278.-first-bad-version/" %}
 [278.-first-bad-version](1-500/278.-first-bad-version/)
 {% endcontent-ref %}

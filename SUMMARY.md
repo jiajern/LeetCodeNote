@@ -19,6 +19,8 @@
   * [53. Maximum Subarray](1-500/53.-maximum-subarray/README.md)
     * [Kadane's Algorithm](1-500/53.-maximum-subarray/kadanes-algorithm.md)
     * [Divide and Conquer](1-500/53.-maximum-subarray/divide-and-conquer.md)
+  * [74. Search a 2D Matrix](1-500/74.-search-a-2d-matrix/README.md)
+    * [Binary Search](1-500/74.-search-a-2d-matrix/binary-search.md)
   * [78. Subsets](1-500/78.-subsets/README.md)
     * [Iterative](1-500/78.-subsets/iterative.md)
   * [88. Merge Sorted Array](1-500/88.-merge-sorted-array/README.md)
