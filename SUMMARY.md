@@ -29,6 +29,8 @@
     * [One pass](1-500/121.-best-time-to-buy-and-sell-stock/one-pass.md)
   * [124. Binary Tree Maximum Path Sum](1-500/124.-binary-tree-maximum-path-sum/README.md)
     * [Solution 1](1-500/124.-binary-tree-maximum-path-sum/solution-1.md)
+  * [141. Linked List Cycle](1-500/141.-linked-list-cycle/README.md)
+    * [Two Pointer](1-500/141.-linked-list-cycle/two-pointer.md)
   * [159. Longest Substring with At Most Two Distinct Characters](1-500/159.-longest-substring-with-at-most-two-distinct-characters/README.md)
     * [Sliding Window](1-500/159.-longest-substring-with-at-most-two-distinct-characters/sliding-window.md)
   * [189. Rotate Array](1-500/189.-rotate-array/README.md)
