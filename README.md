@@ -24,6 +24,10 @@ description: Group question by category
 
 ### Tree
 
+{% content-ref url="1-500/144.-binary-tree-preorder-traversal/" %}
+[144.-binary-tree-preorder-traversal](1-500/144.-binary-tree-preorder-traversal/)
+{% endcontent-ref %}
+
 {% content-ref url="501-1000/530.-minimum-absolute-difference-in-bst/" %}
 [530.-minimum-absolute-difference-in-bst](501-1000/530.-minimum-absolute-difference-in-bst/)
 {% endcontent-ref %}
