@@ -24,6 +24,10 @@ description: Group question by category
 
 ### Tree
 
+{% content-ref url="1-500/94.-binary-tree-inorder-traversal/" %}
+[94.-binary-tree-inorder-traversal](1-500/94.-binary-tree-inorder-traversal/)
+{% endcontent-ref %}
+
 {% content-ref url="1-500/144.-binary-tree-preorder-traversal/" %}
 [144.-binary-tree-preorder-traversal](1-500/144.-binary-tree-preorder-traversal/)
 {% endcontent-ref %}
