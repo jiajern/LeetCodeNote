@@ -28,8 +28,14 @@ description: Group question by category
 [94.-binary-tree-inorder-traversal](1-500/94.-binary-tree-inorder-traversal/)
 {% endcontent-ref %}
 
+{% embed url="https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/45551/Preorder-Inorder-and-Postorder-Iteratively-Summarization" %}
+
 {% content-ref url="1-500/144.-binary-tree-preorder-traversal/" %}
 [144.-binary-tree-preorder-traversal](1-500/144.-binary-tree-preorder-traversal/)
+{% endcontent-ref %}
+
+{% content-ref url="1-500/145.-binary-tree-postorder-traversal/" %}
+[145.-binary-tree-postorder-traversal](1-500/145.-binary-tree-postorder-traversal/)
 {% endcontent-ref %}
 
 {% content-ref url="501-1000/530.-minimum-absolute-difference-in-bst/" %}
