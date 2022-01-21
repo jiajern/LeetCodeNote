@@ -25,6 +25,8 @@
     * [Iterative](1-500/78.-subsets/iterative.md)
   * [88. Merge Sorted Array](1-500/88.-merge-sorted-array/README.md)
     * [Two Pointers](1-500/88.-merge-sorted-array/two-pointers.md)
+  * [94. Binary Tree Inorder Traversal](1-500/94.-binary-tree-inorder-traversal/README.md)
+    * [Iterative](1-500/94.-binary-tree-inorder-traversal/iterative.md)
   * [121. Best Time to Buy and Sell Stock](1-500/121.-best-time-to-buy-and-sell-stock/README.md)
     * [One pass](1-500/121.-best-time-to-buy-and-sell-stock/one-pass.md)
   * [124. Binary Tree Maximum Path Sum](1-500/124.-binary-tree-maximum-path-sum/README.md)
