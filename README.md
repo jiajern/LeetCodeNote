@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Bit Manipulation
+
+{% content-ref url="1-500/136.-single-number/" %}
+[136.-single-number](1-500/136.-single-number/)
+{% endcontent-ref %}
+
 ### Array
 
 {% content-ref url="1-500/1.-two-sum/" %}

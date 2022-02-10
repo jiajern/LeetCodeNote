@@ -31,6 +31,8 @@
     * [One pass](1-500/121.-best-time-to-buy-and-sell-stock/one-pass.md)
   * [124. Binary Tree Maximum Path Sum](1-500/124.-binary-tree-maximum-path-sum/README.md)
     * [Solution 1](1-500/124.-binary-tree-maximum-path-sum/solution-1.md)
+  * [136. Single Number](1-500/136.-single-number/README.md)
+    * [Bit Manipulation](1-500/136.-single-number/bit-manipulation.md)
   * [141. Linked List Cycle](1-500/141.-linked-list-cycle/README.md)
     * [Two Pointer](1-500/141.-linked-list-cycle/two-pointer.md)
   * [144. Binary Tree Preorder Traversal](1-500/144.-binary-tree-preorder-traversal/README.md)
