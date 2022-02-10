@@ -28,6 +28,10 @@ description: Group question by category
 [121.-best-time-to-buy-and-sell-stock](1-500/121.-best-time-to-buy-and-sell-stock/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/169.-majority-element/" %}
+[169.-majority-element](1-500/169.-majority-element/)
+{% endcontent-ref %}
+
 ### Tree
 
 {% content-ref url="1-500/94.-binary-tree-inorder-traversal/" %}
