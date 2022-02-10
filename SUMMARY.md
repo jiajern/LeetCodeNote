@@ -136,6 +136,7 @@
 * [Algorithm](algorithm/README.md)
   * [Floyd's Tortoise and Hare Algorithm](algorithm/floyds-tortoise-and-hare-algorithm.md)
   * [Kadane's Algorithm](algorithm/kadanes-algorithm.md)
+  * [Bit Manipulation](algorithm/bit-manipulation.md)
 * [Template](template/README.md)
   * [Depth First Search DFS Template](template/depth-first-search-dfs-template.md)
   * [Union Find](template/union-find.md)
