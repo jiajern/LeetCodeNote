@@ -16,6 +16,10 @@ description: Group question by category
 [1.-two-sum](1-500/1.-two-sum/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/15.-3sum/" %}
+[15.-3sum](1-500/15.-3sum/)
+{% endcontent-ref %}
+
 {% content-ref url="1-500/78.-subsets/" %}
 [78.-subsets](1-500/78.-subsets/)
 {% endcontent-ref %}
