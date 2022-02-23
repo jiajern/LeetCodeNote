@@ -186,6 +186,10 @@ description: Group question by category
 
 ### Linked List
 
+{% content-ref url="1-500/25.-reverse-nodes-in-k-group/" %}
+[25.-reverse-nodes-in-k-group](1-500/25.-reverse-nodes-in-k-group/)
+{% endcontent-ref %}
+
 {% content-ref url="1-500/328.-odd-even-linked-list/" %}
 [328.-odd-even-linked-list](1-500/328.-odd-even-linked-list/)
 {% endcontent-ref %}
