@@ -122,6 +122,7 @@
     * [Sliding Window](1001-1500/1004.-max-consecutive-ones-iii/sliding-window.md)
   * [1048. Longest String Chain](1001-1500/1048.-longest-string-chain/README.md)
     * [DFS](1001-1500/1048.-longest-string-chain/dfs.md)
+    * [Dynamic Programming](1001-1500/1048.-longest-string-chain/dynamic-programming.md)
   * [1182. Shortest Distance to Target Color](1001-1500/1182.-shortest-distance-to-target-color/README.md)
     * [Binary Search](1001-1500/1182.-shortest-distance-to-target-color/binary-search.md)
     * [Precompute](1001-1500/1182.-shortest-distance-to-target-color/precompute.md)
