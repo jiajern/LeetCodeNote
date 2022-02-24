@@ -102,6 +102,10 @@ description: Group question by category
 [863.-all-nodes-distance-k-in-binary-tree](501-1000/863.-all-nodes-distance-k-in-binary-tree/)
 {% endcontent-ref %}
 
+{% content-ref url="1001-1500/1048.-longest-string-chain/" %}
+[1048.-longest-string-chain](1001-1500/1048.-longest-string-chain/)
+{% endcontent-ref %}
+
 ### Monotonic Increasing/Decreasing Array
 
 {% content-ref url="1-500/239.-sliding-window-maximum/" %}
@@ -164,6 +168,10 @@ description: Group question by category
 
 {% content-ref url="1-500/198.-house-robber/" %}
 [198.-house-robber](1-500/198.-house-robber/)
+{% endcontent-ref %}
+
+{% content-ref url="1001-1500/1048.-longest-string-chain/" %}
+[1048.-longest-string-chain](1001-1500/1048.-longest-string-chain/)
 {% endcontent-ref %}
 
 ### Sliding Window
