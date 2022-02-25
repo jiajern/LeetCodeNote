@@ -106,6 +106,10 @@ description: Group question by category
 [1048.-longest-string-chain](1001-1500/1048.-longest-string-chain/)
 {% endcontent-ref %}
 
+{% content-ref url="1001-1500/1293.-shortest-path-in-a-grid-with-obstacles-elimination/" %}
+[1293.-shortest-path-in-a-grid-with-obstacles-elimination](1001-1500/1293.-shortest-path-in-a-grid-with-obstacles-elimination/)
+{% endcontent-ref %}
+
 ### Monotonic Increasing/Decreasing Array
 
 {% content-ref url="1-500/239.-sliding-window-maximum/" %}

@@ -129,6 +129,8 @@
   * [1229. Meeting Scheduler](1001-1500/1229.-meeting-scheduler/README.md)
     * [Two Pointers](1001-1500/1229.-meeting-scheduler/two-pointers.md)
     * [Heap](1001-1500/1229.-meeting-scheduler/heap.md)
+  * [1293. Shortest Path in a Grid with Obstacles Elimination](1001-1500/1293.-shortest-path-in-a-grid-with-obstacles-elimination/README.md)
+    * [BFS](1001-1500/1293.-shortest-path-in-a-grid-with-obstacles-elimination/bfs.md)
   * [1319. Number of Operations to Make Network Connected](1001-1500/1319.-number-of-operations-to-make-network-connected/README.md)
     * [Solution 1 Union Find](1001-1500/1319.-number-of-operations-to-make-network-connected/solution-1-union-find.md)
   * [1325. Delete Leaves With a Given Value](1001-1500/1325.-delete-leaves-with-a-given-value/README.md)
