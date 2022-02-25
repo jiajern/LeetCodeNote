@@ -152,6 +152,7 @@
   * [Kadane's Algorithm](algorithm/kadanes-algorithm.md)
   * [Bit Manipulation](algorithm/bit-manipulation.md)
   * [Boyer-Moore Voting Algorithm](algorithm/boyer-moore-voting-algorithm.md)
+  * [A\* Search aka Best First Search](algorithm/a-search-aka-best-first-search.md)
 * [Template](template/README.md)
   * [Depth First Search DFS Template](template/depth-first-search-dfs-template.md)
   * [Union Find](template/union-find.md)
