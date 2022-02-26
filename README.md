@@ -94,6 +94,10 @@ description: Group question by category
 [286.-walls-and-gates](1-500/286.-walls-and-gates/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/329.-longest-increasing-path-in-a-matrix/" %}
+[329.-longest-increasing-path-in-a-matrix](1-500/329.-longest-increasing-path-in-a-matrix/)
+{% endcontent-ref %}
+
 {% content-ref url="1-500/417.-pacific-atlantic-water-flow/" %}
 [417.-pacific-atlantic-water-flow](1-500/417.-pacific-atlantic-water-flow/)
 {% endcontent-ref %}

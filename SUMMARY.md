@@ -81,6 +81,8 @@
     * [Solution 1](1-500/323.-number-of-connected-components-in-an-undirected-graph/solution-1.md)
   * [328. Odd Even Linked List](1-500/328.-odd-even-linked-list/README.md)
     * [Loop](1-500/328.-odd-even-linked-list/loop.md)
+  * [329. Longest Increasing Path in a Matrix](1-500/329.-longest-increasing-path-in-a-matrix/README.md)
+    * [DFS Memoi](1-500/329.-longest-increasing-path-in-a-matrix/dfs-memoi.md)
   * [337. House Robber III](1-500/337.-house-robber-iii/README.md)
     * [Solution 1](1-500/337.-house-robber-iii/solution-1.md)
   * [340. Longest Substring with At Most K Distinct Characters](1-500/340.-longest-substring-with-at-most-k-distinct-characters/README.md)
