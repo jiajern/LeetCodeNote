@@ -100,6 +100,8 @@
     * [Recursion](1-500/394.-decode-string/recursion.md)
   * [417. Pacific Atlantic Water Flow](1-500/417.-pacific-atlantic-water-flow/README.md)
     * [BFS](1-500/417.-pacific-atlantic-water-flow/bfs.md)
+  * [489. Robot Room Cleaner](1-500/489.-robot-room-cleaner/README.md)
+    * [DFS](1-500/489.-robot-room-cleaner/dfs.md)
 * [501 - 1000](501-1000/README.md)
   * [530. Minimum Absolute Difference in BST](501-1000/530.-minimum-absolute-difference-in-bst/README.md)
     * [In Order](501-1000/530.-minimum-absolute-difference-in-bst/in-order.md)
