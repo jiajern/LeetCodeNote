@@ -190,6 +190,10 @@ description: Group question by category
 [1048.-longest-string-chain](1001-1500/1048.-longest-string-chain/)
 {% endcontent-ref %}
 
+{% content-ref url="1501-2000/1937.-maximum-number-of-points-with-cost/" %}
+[1937.-maximum-number-of-points-with-cost](1501-2000/1937.-maximum-number-of-points-with-cost/)
+{% endcontent-ref %}
+
 ### Sliding Window
 
 {% content-ref url="1-500/3.-longest-substring-without-repeating-characters/" %}

@@ -154,6 +154,8 @@
     * [Solution 1 Union Find](1501-2000/1579.-remove-max-number-of-edges-to-keep-graph-fully-traversable/solution-1-union-find.md)
   * [1602. Find Nearest Right Node in Binary Tree](1501-2000/1602.-find-nearest-right-node-in-binary-tree/README.md)
     * [Solution 1](1501-2000/1602.-find-nearest-right-node-in-binary-tree/solution-1.md)
+  * [1937. Maximum Number of Points with Cost](1501-2000/1937.-maximum-number-of-points-with-cost/README.md)
+    * [DP Prefix Sum](1501-2000/1937.-maximum-number-of-points-with-cost/dp-prefix-sum.md)
 * [Algorithm](algorithm/README.md)
   * [Floyd's Tortoise and Hare Algorithm](algorithm/floyds-tortoise-and-hare-algorithm.md)
   * [Kadane's Algorithm](algorithm/kadanes-algorithm.md)
