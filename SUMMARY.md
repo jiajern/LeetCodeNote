@@ -110,6 +110,8 @@
     * [Iterative Binary Search](501-1000/704.-binary-search/iterative-binary-search.md)
   * [787. Cheapest Flights Within K Stops](501-1000/787.-cheapest-flights-within-k-stops/README.md)
     * [Solution 1 Dijkstra's Algorithm](501-1000/787.-cheapest-flights-within-k-stops/solution-1-dijkstras-algorithm.md)
+  * [726. Number of Atoms](501-1000/726.-number-of-atoms/README.md)
+    * [Recursive](501-1000/726.-number-of-atoms/recursive.md)
   * [862. Shortest Subarray with Sum at Least K](501-1000/862.-shortest-subarray-with-sum-at-least-k/README.md)
     * [Solution 1](501-1000/862.-shortest-subarray-with-sum-at-least-k/solution-1.md)
   * [863. All Nodes Distance K in Binary Tree](501-1000/863.-all-nodes-distance-k-in-binary-tree/README.md)
