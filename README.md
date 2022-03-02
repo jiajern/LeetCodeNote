@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Interval Related
+
+{% content-ref url="2001-2500/2158.-amount-of-new-area-painted-each-day/" %}
+[2158.-amount-of-new-area-painted-each-day](2001-2500/2158.-amount-of-new-area-painted-each-day/)
+{% endcontent-ref %}
+
 ### Bit Manipulation
 
 {% content-ref url="1-500/136.-single-number/" %}
