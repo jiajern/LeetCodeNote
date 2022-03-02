@@ -56,6 +56,8 @@
     * [Two Pointers](1-500/189.-rotate-array/two-pointers.md)
   * [198. House Robber](1-500/198.-house-robber/README.md)
     * [Dynamic Programming](1-500/198.-house-robber/dynamic-programming.md)
+  * [208. Implement Trie (Prefix Tree)](1-500/208.-implement-trie-prefix-tree/README.md)
+    * [Custom Object](1-500/208.-implement-trie-prefix-tree/custom-object.md)
   * [239. Sliding Window Maximum](1-500/239.-sliding-window-maximum/README.md)
     * [Monotonic Deque](1-500/239.-sliding-window-maximum/monotonic-deque.md)
     * [Dynamic Programming](1-500/239.-sliding-window-maximum/dynamic-programming.md)
