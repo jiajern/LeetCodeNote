@@ -116,6 +116,8 @@
     * [Solution 1](501-1000/862.-shortest-subarray-with-sum-at-least-k/solution-1.md)
   * [863. All Nodes Distance K in Binary Tree](501-1000/863.-all-nodes-distance-k-in-binary-tree/README.md)
     * [DFS](501-1000/863.-all-nodes-distance-k-in-binary-tree/dfs.md)
+  * [939. Minimum Area Rectangle](501-1000/939.-minimum-area-rectangle/README.md)
+    * [HashMap](501-1000/939.-minimum-area-rectangle/hashmap.md)
   * [968. Binary Tree Cameras](501-1000/968.-binary-tree-cameras/README.md)
     * [Solution 1](501-1000/968.-binary-tree-cameras/solution-1.md)
     * [Solution 2](501-1000/968.-binary-tree-cameras/solution-2.md)
