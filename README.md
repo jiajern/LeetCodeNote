@@ -4,6 +4,12 @@ description: Group question by category
 
 # Directory
 
+### Design Related
+
+{% content-ref url="1-500/146.-lru-cache/" %}
+[146.-lru-cache](1-500/146.-lru-cache/)
+{% endcontent-ref %}
+
 ### Interval Related
 
 {% content-ref url="2001-2500/2158.-amount-of-new-area-painted-each-day/" %}
