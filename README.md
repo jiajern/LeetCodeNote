@@ -12,6 +12,14 @@ description: Group question by category
 
 ### Interval Related
 
+{% content-ref url="1-500/253.-meeting-rooms-ii/" %}
+[253.-meeting-rooms-ii](1-500/253.-meeting-rooms-ii/)
+{% endcontent-ref %}
+
+{% content-ref url="1001-1500/1229.-meeting-scheduler/" %}
+[1229.-meeting-scheduler](1001-1500/1229.-meeting-scheduler/)
+{% endcontent-ref %}
+
 {% content-ref url="2001-2500/2158.-amount-of-new-area-painted-each-day/" %}
 [2158.-amount-of-new-area-painted-each-day](2001-2500/2158.-amount-of-new-area-painted-each-day/)
 {% endcontent-ref %}
