@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Directory](README.md)
+  * [Binary Tree](directory/binary-tree.md)
 * [1 - 500](1-500/README.md)
   * [1. Two Sum](1-500/1.-two-sum/README.md)
     * [Hash Table](1-500/1.-two-sum/hash-table.md)
