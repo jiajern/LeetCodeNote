@@ -85,6 +85,8 @@
     * [Solution 1 Union Find](1-500/305.-number-of-islands-ii/solution-1-union-find.md)
   * [323. Number of Connected Components in an Undirected Graph](1-500/323.-number-of-connected-components-in-an-undirected-graph/README.md)
     * [Solution 1](1-500/323.-number-of-connected-components-in-an-undirected-graph/solution-1.md)
+  * [325. Maximum Size Subarray Sum Equals k](1-500/325.-maximum-size-subarray-sum-equals-k/README.md)
+    * [Prefix Sum](1-500/325.-maximum-size-subarray-sum-equals-k/prefix-sum.md)
   * [328. Odd Even Linked List](1-500/328.-odd-even-linked-list/README.md)
     * [Loop](1-500/328.-odd-even-linked-list/loop.md)
   * [329. Longest Increasing Path in a Matrix](1-500/329.-longest-increasing-path-in-a-matrix/README.md)

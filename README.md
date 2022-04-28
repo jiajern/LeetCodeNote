@@ -56,6 +56,10 @@ description: Group question by category
 [169.-majority-element](1-500/169.-majority-element/)
 {% endcontent-ref %}
 
+{% content-ref url="1-500/325.-maximum-size-subarray-sum-equals-k/" %}
+[325.-maximum-size-subarray-sum-equals-k](1-500/325.-maximum-size-subarray-sum-equals-k/)
+{% endcontent-ref %}
+
 ### Tree
 
 {% content-ref url="1-500/94.-binary-tree-inorder-traversal/" %}
