@@ -113,6 +113,8 @@
   * [489. Robot Room Cleaner](1-500/489.-robot-room-cleaner/README.md)
     * [DFS](1-500/489.-robot-room-cleaner/dfs.md)
 * [501 - 1000](501-1000/README.md)
+  * [525. Contiguous Array](501-1000/525.-contiguous-array/README.md)
+    * [Map](501-1000/525.-contiguous-array/map.md)
   * [530. Minimum Absolute Difference in BST](501-1000/530.-minimum-absolute-difference-in-bst/README.md)
     * [In Order](501-1000/530.-minimum-absolute-difference-in-bst/in-order.md)
   * [704. Binary Search](501-1000/704.-binary-search/README.md)

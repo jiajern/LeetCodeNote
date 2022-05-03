@@ -60,6 +60,10 @@ description: Group question by category
 [325.-maximum-size-subarray-sum-equals-k](1-500/325.-maximum-size-subarray-sum-equals-k/)
 {% endcontent-ref %}
 
+{% content-ref url="501-1000/525.-contiguous-array/" %}
+[525.-contiguous-array](501-1000/525.-contiguous-array/)
+{% endcontent-ref %}
+
 ### Tree
 
 {% content-ref url="1-500/94.-binary-tree-inorder-traversal/" %}
